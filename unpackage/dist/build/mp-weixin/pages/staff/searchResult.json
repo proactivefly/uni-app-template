@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "用户查询",
+  "usingComponents": {
+    "load-more": "/components/loadMore/loadMore"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "4S店查询",
+  "usingComponents": {
+    "load-more": "/components/loadMore/loadMore"
+  }
+}

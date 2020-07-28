@@ -1,0 +1,1 @@
+.wrapper{padding-bottom:200rpx}.wrapper .form_wrapper{background:#f8f9fc;border-radius:16rpx;padding:0rpx 30rpx;margin-top:30rpx}.wrapper .register_btn{margin-top:50rpx}.wrapper .register_btn .lg{height:112rpx;background-color:#1f2334;letter-spacing:2rpx;color:#fff}

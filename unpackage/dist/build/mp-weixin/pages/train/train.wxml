@@ -1,0 +1,1 @@
+<page-meta vue-id="17313da4-1" bind:__l="__l" vue-slots="{{['default']}}"><navigation-bar vue-id="{{('17313da4-2')+','+('17313da4-1')}}" title="页面标题" loading="true" color-animation-duration="2000" color-animation-timing-func="easeIn" bind:__l="__l"></navigation-bar><view class="wrapper"><view class="_h1">我是</view></view></page-meta>

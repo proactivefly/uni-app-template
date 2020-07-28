@@ -1,0 +1,74 @@
+{
+  "pages": [
+    "pages/infomation/index",
+    "pages/adminControlOrder/operationQuestion",
+    "pages/feedback/lookProcess",
+    "pages/award/lookGift",
+    "pages/feedback/list",
+    "pages/feedback/relativeOrder",
+    "pages/feedback/feedback",
+    "pages/award/selectGift",
+    "pages/award/list",
+    "pages/train/train",
+    "pages/adminControlOrder/index",
+    "pages/client/searchShop",
+    "pages/client/citySelect",
+    "pages/client/timeline",
+    "pages/staff/recordOrder",
+    "pages/award/index",
+    "pages/personal/info",
+    "pages/staff/searchResult",
+    "pages/personal/register",
+    "pages/personal/authorization",
+    "pages/adminControlOrder/checkOrder",
+    "pages/staff/createOrder",
+    "pages/fourShop/fourShop",
+    "pages/staff/login",
+    "pages/staff/staffLookProgress",
+    "pages/staff/orderList",
+    "pages/staff/search",
+    "pages/webView/webView",
+    "pages/adminControlOrder/lookPrcess"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "卫蓝购",
+    "navigationStyle": "default",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#8491A8",
+    "selectedColor": "#1F2334",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/award/index",
+        "iconPath": "static/award.png",
+        "selectedIconPath": "static/award_act.png",
+        "text": "奖励"
+      },
+      {
+        "pagePath": "pages/infomation/index",
+        "iconPath": "static/information.png",
+        "selectedIconPath": "static/information_act.png",
+        "text": "资讯"
+      },
+      {
+        "pagePath": "pages/personal/info",
+        "iconPath": "static/personal.png",
+        "selectedIconPath": "static/personal_act.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "为了给您提供更好的服务"
+    }
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

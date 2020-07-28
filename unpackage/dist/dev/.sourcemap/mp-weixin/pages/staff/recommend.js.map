@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///C:/Users/ecsta/Desktop/qdms/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,qG;AACAA,UAAU,CAACC,kBAAD,CAAV,C","file":"pages/staff/recommend.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/staff/recommend.vue'\ncreatePage(Page)"],"sourceRoot":""}

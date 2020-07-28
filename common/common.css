@@ -1,0 +1,152 @@
+
+.placeholder_style {
+	color: #949495!important
+}
+
+/* 空状态 */
+.no_data {
+	text-align: center;
+	font-size: 32upx;
+	font-family: PingFangSC-Regular;
+	font-weight: 400;
+	margin-top: 30%;
+	color: rgba(203, 210, 219, 1);
+}
+
+.qx-from-group {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	border-bottom: 1upx solid #E3E9F0
+}
+
+.qx-from-group.no_edit{
+	opacity: 0.5!important
+}
+
+.qx-from-group.no-border {
+	border: none
+}
+
+.qx-from-group .title {
+	height: 124upx;
+	font-size: 32upx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: rgba(30, 30, 30, 1);
+	line-height: 124upx;
+	flex-basis: 200upx
+}
+
+.qx-from-group input,
+.qx-from-group .picker {
+	flex: 1;
+	height: 124upx;
+	line-height: 124upx;
+	;
+	color: #1e1e1e;
+	font-size: 32upx;
+	text-align: right;
+}
+
+
+.qx-from-group .img {
+	width: 28upx;
+	height: 30upx;
+	margin-left: 16upx
+}
+
+.qx-from-group .radio {
+	flex: 1;
+	text-align: right
+}
+
+.qx-from-group {
+	display: flex;
+	flex-direction: row;
+}
+
+.radio_group {
+	flex: 1;
+	text-align: right;
+	display:flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.radio_group .radio_item {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-left: 80upx
+}
+
+.radio_group .radio_item image {
+	width: 30upx;
+	height: 30upx;
+	margin-right: 18upx;
+}
+
+.radio_group .radio_item text {
+	width: 64upx;
+	font-size: 32upx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: rgba(31, 35, 52, 1);
+}
+
+.flex-row-center{
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-row-start{
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+}
+.flex-row-start-end{
+	display:flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
+
+.flex-row-start-start{
+	display:flex;
+	flex-direction: row;
+	align-items: flex-start;
+}
+
+.flex-row-between{
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+.flex-row-between-start{
+	display:flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+.text-ellipsis{
+	white-space:nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.flex-row-end{
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+
+.flex-column-start{
+	display:flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+}

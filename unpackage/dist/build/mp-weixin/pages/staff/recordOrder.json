@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "购车信息录入",
+  "usingComponents": {
+    "load-more": "/components/loadMore/loadMore"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": " ",
+  "usingComponents": {
+    "simple-tab": "/components/simpleTab/simpleTab",
+    "load-more": "/components/loadMore/loadMore"
+  }
+}

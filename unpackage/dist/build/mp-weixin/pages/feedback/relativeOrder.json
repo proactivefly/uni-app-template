@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "关联订单",
+  "usingComponents": {
+    "load-more": "/components/loadMore/loadMore"
+  }
+}

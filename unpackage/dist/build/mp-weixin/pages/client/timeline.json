@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "购车进度维护",
+  "usingComponents": {
+    "evaluate": "/components/evaluate/rate"
+  }
+}
